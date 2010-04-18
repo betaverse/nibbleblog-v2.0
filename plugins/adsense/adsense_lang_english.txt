@@ -1,0 +1,5 @@
+//============================================
+// ./includes/plugins/adsense.php
+//============================================
+$_LANG['PLUGIN_adsense_name'] = 'Sponsors';
+$_LANG['PLUGIN_adsense_info'] = 'Plugin to show Google Adsense. Adapted from Ads Plugin v1.0 by Diego Najar.';
