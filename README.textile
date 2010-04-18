@@ -1,6 +1,8 @@
 *About Nibble Blog*
 "Nibble Blog":http://www.nibbleblog.com/ is a young, small and extremely fast Open Source Blog application written in PHP5 / SimpleXML by "Diego Najar":http://www.muser.com.ar/, a Computer Science major located in Argentina. Diego has done a terrific job of engineering this application and building it out to Version 2.
 
+You can test drive the Nibble Blog *v2 Demo* "here":http://beta.nibbleblog.com/. You can get the *Code* "here":http://code.google.com/p/nibbleblog/downloads/list and ... you can find help in the *Forum* "here":http://forum.nibbleblog.com/.
+
 *About This Repository*
 These files extend the default features of Nibble Blog and are supplied without warranty under Open Source License(s) as detailed below.
 
@@ -10,6 +12,5 @@ These files extend the default features of Nibble Blog and are supplied without 
 # Login to yournibbleblog.com/admin and publish your new plugin
 
 *Plugin Inventory*
-* _Adsense v1.0_ - Plugin to show Google Adsense. Adapted from Ads Plugin v1.0 by Diego Najar. License GPL-2
-
-
+_Adsense v1.0_ - Plugin to show Google Adsense in sidebar. Adapted from Ads Plugin v1.0 by Diego Najar. License GPL-2
+--
