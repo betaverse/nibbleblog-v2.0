@@ -1,3 +1,4 @@
+//add the snippet below to the bottom of yournibbleblog/lang/english.php
 //============================================
 // ./includes/plugins/adsense.php
 //============================================
