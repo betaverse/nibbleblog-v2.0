@@ -7,7 +7,7 @@ You can test drive the Nibble Blog *v2 Demo* "here":http://beta.nibbleblog.com/.
 These files extend the default features of Nibble Blog and are supplied without warranty under Open Source License(s) as detailed below.
 
 *Basic Plugin Installation*
-# Download *yourplugin.zip* and unpack on your local machine.
+# Select */downloads/yourplugin.zip* and click *View Raw* then unpack on your local machine.
 # Upload *yourplugin.zip contents* to *yournibbleblog/plugins/* directory
 # Add contents of *yourplugin_language_snippet.txt* to the bottom of *yournibbleblog/lang/english.php* file.
 # Login to *yournibbleblog.com/admin* and publish your new plugin
@@ -16,11 +16,11 @@ These files extend the default features of Nibble Blog and are supplied without 
 Please see "the Wiki":http://wiki.github.com/betaverse/nibble-blog-2/ for more detial on *Advanced Plugins*. 
 
 *Plugin Inventory*
-_Adsense v1.0_
-*Basic* Plugin shows Google Adsense in sidebar. Adapted from Ads Plugin v1.0 by Diego Najar. License GPL-2.
++Adsense v1.0+
+__Basic__ Plugin shows Google Adsense in sidebar. Adapted from Ads Plugin v1.0 by Diego Najar. License GPL-2.
 
-_Picasa v1.0 beta_
-*Advanced* Plugin shows interactive gallery in sidebar. Uses jQuery, EmbedPicasaGallery and Slimbox2. License GPL-2.
++Picasa v1.0 beta+
+__Advanced__ Plugin shows interactive gallery in sidebar. Uses jQuery, EmbedPicasaGallery and Slimbox2. License GPL-2.
 
 *Demo Site*
 Visit my "Demo Site":http://nibble2b7.betaverse.com/ to see these files in action.
