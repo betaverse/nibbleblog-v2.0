@@ -1,0 +1,6 @@
+//add the snippet below to the bottom of yournibbleblog/lang/english.php
+//============================================
+// ./includes/plugins/picasa.php
+//============================================
+$_LANG['PLUGIN_picasa_name'] = 'Picasa Gallery';
+$_LANG['PLUGIN_picasa_info'] = 'Advanced Plugin shows interactive gallery in sidebar. Uses jQuery, EmbedPicasaGallery and Slimbox2.';

@@ -4,7 +4,7 @@
 	$_PLUGIN['version'] = '1.0';
 	$_PLUGIN['redate'] = '04/18/2010';
 	$_PLUGIN['developer'] = 'Kelly Galvin';
-	$_PLUGIN['license'] = 'GPL-2';
+	$_PLUGIN['license'] = '<a href="http://creativecommons.org/licenses/GPL/2.0/">GPL-2</a>';
 	$_PLUGIN['web'] = 'http://www.betaverse.com';
 ?>
 
@@ -16,7 +16,7 @@
 		global $_LANG;
 		global $blog_info;
 		
-		// make sure you add contents of lang_english_adsense.txt to the bottom of your language file 
+		// add yourplugin_language_snippet.txt to the bottom of your language file 
 		echo '
 		<div class="siderbar_plugin_container">
 			<div class="sidebar_plugin_title">'.$_LANG['PLUGIN_adsense_name'].'</div>
@@ -37,7 +37,8 @@ google_ad_height = 250;
 src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
 		';
-	
+		
+		// output adsense	
 		echo $sidebar_adsense;
 
 		echo '
