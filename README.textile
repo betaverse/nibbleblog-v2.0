@@ -9,6 +9,6 @@ Basic Plugin shows Google Adsense in sidebar. Adapted from Ads Plugin v1.0 by Di
 Advanced Plugin shows interactive gallery in sidebar. Uses jQuery, EmbedPicasaGallery and Slimbox2. License GPL-2.
 
 *Plugin Installation*
-Please "visit the Wiki":http://wiki.github.com/betaverse/nibble-blog-v2.0/ for more information.
+Please "visit the Wiki":https://github.com/betaverse/nibbleblog-v2.0/wiki for more information.
 
 --
