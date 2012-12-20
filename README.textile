@@ -1,5 +1,5 @@
 *About This Repo*
-These files extend the default features of an older version (v2.0+) of "Nibble Blog":http://wiki.github.com/betaverse/nibble-blog-v2.0/ and are supplied without warranty under Open Source License(s).
+These files extend the default features of an older version (v2.0+) of "Nibble Blog":http://nibbleblog.com/ and are supplied without warranty under Open Source License(s).
 
 *Plugin Inventory*
 +Adsense v1.0+
