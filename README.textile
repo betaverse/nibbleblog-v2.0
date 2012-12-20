@@ -1,5 +1,5 @@
 *About This Repo*
-These files extend the default features of "Nibble Blog":http://wiki.github.com/betaverse/nibble-blog-2/ and are supplied without warranty under Open Source License(s).
+These files extend the default features of an older version (v2.0+) of "Nibble Blog":http://wiki.github.com/betaverse/nibble-blog-v2.0/ and are supplied without warranty under Open Source License(s).
 
 *Plugin Inventory*
 +Adsense v1.0+
@@ -9,8 +9,6 @@ Basic Plugin shows Google Adsense in sidebar. Adapted from Ads Plugin v1.0 by Di
 Advanced Plugin shows interactive gallery in sidebar. Uses jQuery, EmbedPicasaGallery and Slimbox2. License GPL-2.
 
 *Plugin Installation*
-Please "visit the Wiki":http://wiki.github.com/betaverse/nibble-blog-2/ for more information.
+Please "visit the Wiki":http://wiki.github.com/betaverse/nibble-blog-v2.0/ for more information.
 
-*Demo Site*
-Visit my "Demo Site":http://nibble2b7.betaverse.com/ to see these files in action.
 --
